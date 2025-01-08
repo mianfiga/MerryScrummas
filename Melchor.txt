@@ -1,0 +1,11 @@
+# Use this file in the following way:
+# [PERSON NAME]:
+#  * Person's first desired gift
+#  * Person's second desired gift
+#  ...
+#
+# [PERSON NAME]:
+#  * Person's first desired gift
+#  * Person's second desired gift
+#  ...
+
