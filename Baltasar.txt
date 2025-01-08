@@ -1,5 +1,5 @@
 # Use this file in the following way:
-# [PERSON NAME]:
+# [Dylan Jesus Suarez Falcon]:
 #  * Person's first desired gift
 #  * Person's second desired gift
 #  ...
@@ -8,3 +8,7 @@
 #  * Person's first desired gift
 #  * Person's second desired gift
 #  ...
+
+Dylan Jesus Suarez Falcon:
+ * Un coche nuevo
+ * Ser puntu
