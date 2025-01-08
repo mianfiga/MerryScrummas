@@ -16,6 +16,11 @@ Sarah:
  * Blender Assets
  ...
 
+Yezid:
+  * Calcetines
+  * Una peluca
+  * Un teclado
+
 Aythami:
    * Un gato
    * GTA 6
