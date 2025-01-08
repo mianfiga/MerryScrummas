@@ -4,9 +4,9 @@
 #  * Person's second desired gift
 #  ...
 
-#  Sarah:
-#  * A travel ticket to Barcelona 
-#  * A windows comptible PC
-#  * Blender Assets
-#  ...
-#
+Sarah:
+
+ * A travel ticket to Barcelona 
+ * A windows comptible PC
+ * Blender Assets
+ ...
