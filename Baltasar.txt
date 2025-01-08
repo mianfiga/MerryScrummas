@@ -8,3 +8,26 @@
 #  * Person's first desired gift
 #  * Person's second desired gift
 #  ...
+
+
+Yezid:
+  * Calcetines
+  * Una peluca
+  * Un teclado
+
+Aythami:
+   * Un gato
+   * GTA 6
+
+ CYNTHIA:
+  * Un portátil nuevo
+  * Una agenda para 2025
+
+[Victor]:
+  * Que el barça pierda (en general, cualquier cosa).
+  * Más horas al día para jugar al fifa.
+  * Que vuelvan los motores v10 a la Formula
+
+Dylan Jesus Suarez Falcon:
+ * Un coche nuevo
+ * Ser puntual
