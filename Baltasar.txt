@@ -9,7 +9,17 @@
 #  * Person's second desired gift
 #  ...
 
-Yezid
- * Calcetines
- * Una peluca
- * Un teclado
+
+Yezid:
+  * Calcetines
+  * Una peluca
+  * Un teclado
+
+CYNTHIA:
+  * Un portátil nuevo
+  * Una agenda para 2025
+
+[Victor]:
+  * Que el barça pierda (en general, cualquier cosa).
+  * Más horas al día para jugar al fifa.
+  * Que vuelvan los motores v10 a la Formula

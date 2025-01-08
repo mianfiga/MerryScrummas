@@ -8,3 +8,6 @@
 #  * Person's first desired gift
 #  * Person's second desired gift
 #  ...
+Aimar:
+    * Un coche
+    * Gasolina para el coche
