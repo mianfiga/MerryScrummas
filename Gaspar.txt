@@ -17,3 +17,7 @@ Mansour:
 Aimar:
   * Un coche
   * Gasolina para el coche
+  
+Juan Carlos:
+    * Una pc gaming
+    * Un set de destornilladores
