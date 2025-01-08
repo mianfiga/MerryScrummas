@@ -8,6 +8,11 @@
 #  * Person's first desired gift
 #  * Person's second desired gift
 #  ...
+#
+# CYNTHIA:
+#  * Un portátil nuevo
+#  * Una agenda para 2025
+#  ...
 
 [Victor]:
   * Que el barça pierda (en general, cualquier cosa).
