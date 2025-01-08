@@ -9,3 +9,9 @@
 #  * Person's second desired gift
 #  ...
 
+[Mayer]:
+  * Gameboy
+  * Pokemon Esmeralda
+  * Carbon
+
+
