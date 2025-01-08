@@ -13,3 +13,7 @@ Mansour:
  * Portail
  * Cascos Inalambricos
  * Dinero
+
+Aimar:
+  * Un coche
+  * Gasolina para el coche
