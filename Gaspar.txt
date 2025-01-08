@@ -8,6 +8,16 @@
 #  * Person's first desired gift
 #  * Person's second desired gift
 #  ...
+
+Mansour:
+ * Portail
+ * Cascos Inalambricos
+ * Dinero
+
 Aimar:
-    * Un coche
-    * Gasolina para el coche
+  * Un coche
+  * Gasolina para el coche
+  
+Juan Carlos:
+    * Una pc gaming
+    * Un set de destornilladores
