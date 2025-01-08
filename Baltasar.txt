@@ -9,6 +9,12 @@
 #  * Person's second desired gift
 #  ...
 
+Sarah:
+
+ * A travel ticket to Barcelona 
+ * A windows compatible PC
+ * Blender Assets
+ ...
 
 Yezid:
   * Calcetines
