@@ -7,6 +7,6 @@
 Sarah:
 
  * A travel ticket to Barcelona 
- * A windows comptible PC
+ * A windows compatible PC
  * Blender Assets
  ...
