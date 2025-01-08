@@ -1,5 +1,10 @@
 # Use this file in the following way:
-# [Sarah]:
+# [PERSON NAME]:
+#  * Person's first desired gift
+#  * Person's second desired gift
+#  ...
+
+#  Sarah:
 #  * A travel ticket to Barcelona 
 #  * A windows comptible PC
 #  * Blender Assets
