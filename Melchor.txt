@@ -9,3 +9,6 @@
 #  * Person's second desired gift
 #  ...
 
+Isaac:
+ * Figurita Naruto
+ * Funda S23 Ultra
