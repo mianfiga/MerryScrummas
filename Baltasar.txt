@@ -13,3 +13,8 @@
 #  * Un portátil nuevo
 #  * Una agenda para 2025
 #  ...
+
+[Victor]:
+  * Que el barça pierda (en general, cualquier cosa).
+  * Más horas al día para jugar al fifa.
+  * Que vuelvan los motores v10 a la Formula
