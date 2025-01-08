@@ -1,10 +1,5 @@
-# Use this file in the following way:
-# [PERSON NAME]:
-#  * Person's first desired gift
-#  * Person's second desired gift
-#  ...
-#
-# [PERSON NAME]:
-#  * Person's first desired gift
-#  * Person's second desired gift
-#  ...
+Juan Carlos:
+    * Una pc gaming
+    * Unas nike air force one
+    * Un set de destornilladores
+    * Airpods
