@@ -9,6 +9,12 @@
 #  * Person's second desired gift
 #  ...
 
+
+Yezid:
+  * Calcetines
+  * Una peluca
+  * Un teclado
+
 Aythami:
    * Un gato
    * GTA 6
